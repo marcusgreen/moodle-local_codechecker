@@ -8,6 +8,9 @@ This Moodle plugin uses the Pear CodeSniffer library to
 check that code follows the Moodle coding guidelines, available @
 <http://docs.moodle.org/en/Development:Coding_style>.
 
+This copy has been very slightly modified so the file excludes can be
+updated in the settings.
+
 It was created by developers at the Open University, including Sam Marshall,
 Tim Hunt and Jenny Gray. It is now maintained by Moodle HQ.
 
